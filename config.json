@@ -1,0 +1,9 @@
+{
+  "name": "Cracks Synthetic Dataset",
+  "description": "This dataset was used in tutorial 'The training on Synthetic data'.",
+  "type": "project",
+  "categories": ["import", "images", "project"],
+  "icon": "",
+  "icon_cover": true,
+  "poster": ""
+}

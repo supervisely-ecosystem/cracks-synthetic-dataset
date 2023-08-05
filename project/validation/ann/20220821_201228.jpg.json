@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 466,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 92578394,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-14T19:18:16.478Z",
+            "updatedAt": "2023-05-14T19:18:16.478Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBLgTR+4lQTkcNChoKAAAADUlIRFIAAAGxAAABJwEDAAAAHSHvrAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPWSURBVHic7ZpNctQwEIUttBALKuIEiINQiCNxAAr5aD5KuIF3ZDEg9GPLHleKvH4hTkLpLQhOzRdL3eoft2cYh9ek98+9gCfWeC6n2Pv95/pyMtfV1dXV1dXV1dXV1dX1kvWO5D507l59fiXct1fCXUju97mcOpsj7aJP5gzJ2TuOcyw3c5wnuXh7KqdITseJ4kyksMGQ4WBJzpHH05PHLJBc5PanIud3EyNlGBu5hfoYmQOTtkdt0JCczdws5xzJhXkIFDelWzLcmLbIcNmkBHfHJSZFcjoHH8PN6Z9wHqcywiTeKduF4Iac6EeKYxO9JTlHJvpAcmTiHbj8mdzHcSZyhYUK92Hg0ksSlc74Oqb5+sdyE8OlwjKeyTmq3OY6zYVDIDmynWA5TXKG5Nh26eQ2i+bCyVx8RBtJcPpkzjyGG8/jSps8de4odzLnSS6Qj0fPwo1yLnJxVNLELu+i3zv7V5wGOX3gHMiVcN+1nyznSS5IuF27ix4Be82pp+ZS+Pldu2tx7pKf/MVcSIvcjTE9zs2Du91dgly84hQaiqWX3zgt4KYdZ1BOX3Nwy1wW5qb10qGcybG3cXDLXB7FfOPgFs/ldbXYwVvYMsJc06CL8MSvDDRWLlyH4l9UBxMrhw/E6mAirn8E5upgIq4XcCWsk+SFs3il8JcdFyLshhLpqnIa90KdDy2cxceLNXstnMc5XYm6KUFfYet+Ci3pJ5f3OIVzgnq9vI8J5f+4F9YxXeNAN6zFoB42iRuGxkmm2OvrwsxpgTmX13dluRLO1HWlnKZuPRzrye2VK/EjMMtgp/LDrRy4zDXfhpUDsYUzKwYP0UqP0zC8efXlpo2bUK6cy7Y72CzluKiGwUODwm3bg2eS5Zg1p+PmLG978/qE5sztjsn3CTJz+tvihXlxxYhyOUuEzFmRWXLt83V9kmAo4bqsL0i2l2rmOmNwQs4s+zISs5g4emYkZePkBaekycUfklPS5GXebpIFwYGTb0/LDnOTEcX4Ji+4ndp9Dl/mx8HM7ULDGTo0u+d6ElAv6C2LpEAvw9mtH3+YyyZMnIVd1xLelBOEgwPct/yqawobMW6rAy5xmC2nzP1sYL4lYkt1eZuz0FZCwPylkhHzV390nIMAKw9dpRiErfwA2KB/xUtO6lnLDSHnmdG1I2wlXFrpFml2PW4PyiZuM7uGA+jm+sVuQNPYzfW4wqPcp+tLA7rh+G09+Gn0YHQFplt1dBboPjsffwG678iBw6DdeGURNuwKyIfu0XeS+0pyM8lNnXsJ3L6oi7jxXA6dgB9lOGx4I/z8Hy8H3sGAume6AAAAAElFTkSuQmCC94gaRQ==",
+                "origin": [
+                    79,
+                    52
+                ]
+            }
+        }
+    ]
+}

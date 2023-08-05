@@ -1,0 +1,32 @@
+{
+    "classes": [
+        {
+            "title": "__bg__",
+            "shape": "bitmap",
+            "color": "#000000",
+            "geometry_config": {},
+            "id": 747781,
+            "hotkey": ""
+        },
+        {
+            "title": "cracks",
+            "shape": "bitmap",
+            "color": "#07FF00",
+            "geometry_config": {},
+            "id": 747782,
+            "hotkey": ""
+        }
+    ],
+    "tags": [
+        {
+            "name": "confidence",
+            "value_type": "any_number",
+            "color": "#8A0F68",
+            "id": 395454,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        }
+    ],
+    "projectType": "images"
+}

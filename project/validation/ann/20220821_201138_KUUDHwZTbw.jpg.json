@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 986,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 92578343,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-14T19:18:16.478Z",
+            "updatedAt": "2023-05-14T19:18:16.478Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBRAS7+4lQTkcNChoKAAAADUlIRFIAAABiAAAD2gEDAAAAVhofyAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPsSURBVHiczdpBbuQgEAVQWl542UfwUXyzmKMxN+EILHvRiqelkTr1a4av7xIkk91T1DY2FFSBU/rzdz/Pmt5/LxVZGZSsnkQPo+1soAoqIHO7tNvbpb2BKsheJB2ZyCJ9EH1a3J59LfZZ0wrNvNe+ttLXnmPChz1RFjeiBR59efa1PmS18bpHVfuKdgqOKxS8XDeumOBVb6D9IavBVearjhAGNNPBlK1INCQy/u8gvRuOBqpwO2imHKYuMOUwvaCHKj28abj9qFzL2gQ9gsJplumzLzdCzhG6wWj1Kl25MU/DFqRPBYOUrTZU+UndmeoEyS2jU3K20pMQEI5rjA6MHLoaQcOwa93invpiSSNKTxox+Bs0E+TyXhCuMawXSJ8w0WwlmNcMkrxuOTWr6CpG17RipU88ehEjd59PNFDQFjd4KqhZ7UwYmSh5TWNZz6ARGR2t7Hd0piugav/p1ECYYaKefe2YwxLd9XSCdcuYoIZrYuF0YZy7sdys8MXghsPmZC96hx5coc8W6LMb9uBBKoYtmgIS0WRfHr5XZo5qhQsULmUsb8a5lz1EeJCwin0n/2PSUwN554mJzT+D6sFgsDLpz3fhTQSnGL0W1re6ptSRtS+3cwKi2w5WWMitmHyTVNwJE3OSprOHpQV8UUWrpQy/Y0p9sSIhKnc/1jKQXhuuTM0KAwADh0+00LQx64PLzUlO7xrKmq3PybQHM1GxciO0gdjq70rjanSDpPAG5zDphOc9UHi8Ap3Gsh1/+wY3JBnqLhcAF5L86FQfLBhvUcl7AWPunoYo+rSJheB8kbZM2XwYk8KwZO5nU7sxESBryiEEkX6cxbZvhpwz64N8/kDW6wm6fVmt6PZlkZX7ip6c66nWDOln+t9djEalt9MpBwVXubAn2pe+38VE6yUmVmIOkX6oj5tmpIxcnLIRJrGY/tFj9TZe+qPP+HBlmEz19pJJ01/D5fhK01+L5vlVFzg91/PXu5+W81UxvH/4lx5pKV963+0fyqDU16csOyhWqDq8CigPURqiMW2JaRui/YIMkqtLUZUog5Ko6CcvF75oQ5HpzOnCkKi2nTDIF1d2DxE7vaNneUTRV+gU/FqFH1yA2DERyj0unp+dqNzVShfOvtjye+VslkhPIVwPsnRG/vKDfjeEk8NBpH8i6R6QnYe62LVN8/twcFFderOnxGA0PnWRV+hfaAXhS3NLTelqc8nBo6tF7yW3sUmm+/AR+gwFv92LSi/iacvCT8RUiILXJO3U0wPIjNho3UA7VRMFWTwVjzgrupa5Zbb0xbbe/is1oidRcBVwa0KboPkryzevSDM20Ad9cR+/5m9xMnGB+BZXuAAAAABJRU5ErkJgglJADR0=",
+                "origin": [
+                    274,
+                    0
+                ]
+            }
+        }
+    ]
+}
