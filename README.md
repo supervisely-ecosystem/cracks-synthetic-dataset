@@ -1,9 +1,9 @@
 <div align="center" markdown>
 
 <img src="https://i.imgur.com/UdBujFN.png" width="250"/> <br>
-  
-TODO: poster
-<img src="poster"/>
+<img src="https://github.com/supervisely-ecosystem/cracks-synthetic-dataset/assets/119248312/627f42db-df78-4498-b99f-9aab061f5682"/>
+
+# Cracks Synthetic Dataset
 
 <p align="center">
 
@@ -14,13 +14,11 @@ TODO: poster
   
 </p>
 
-TODO: shields
-<!-- [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack) 
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/aerial-power-infrastructure-detection-train-dataset)
-[![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/aerial-power-infrastructure-detection-train-dataset.png)](https://supervise.ly)
-[![downloads](https://app.supervise.ly/img/badges/downloads/supervisely-ecosystem/aerial-power-infrastructure-detection-train-dataset.png)](https://supervise.ly) -->
+[![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack) 
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/cracks-synthetic-dataset)
+[![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/cracks-synthetic-dataset.png)](https://supervise.ly)
+[![downloads](https://app.supervise.ly/img/badges/downloads/supervisely-ecosystem/cracks-synthetic-dataset.png)](https://supervise.ly)
 
-# Cracks Synthetic Dataset
 
 </div>
 
@@ -49,7 +47,7 @@ Direct download links:
 
 | source_synthetic | source_synthetic_styled | target_unlabeled | validation |
 | ---------------- | ----------------------- | ---------------- | ---------- |
-| ![source_synthetic](project/source_synthetic/img/00_00006_pexels_3616764.jpg) | ![source_synthetic_styled](project/source_synthetic_styled/img/00_00_00050_pexels_1903409.jpg) | ![target_unlabeled](project/target_unlabeled/img/20220819_130424.jpg) | ![validation](project/validation/img/20220821_200938_lRGRYLlPw6.jpg) |
+| <img src="project/source_synthetic/img/00_00006_pexels_3616764.jpg" width=200px /> | <img src="project/source_synthetic_styled/img/00_00_00050_pexels_1903409.jpg" width=200px /> | <img src="project/target_unlabeled/img/20220819_130424.jpg" height=150px /> | <img src="project/validation/img/20220821_200938_lRGRYLlPw6.jpg" height=150px /> |
 
 # License
 
