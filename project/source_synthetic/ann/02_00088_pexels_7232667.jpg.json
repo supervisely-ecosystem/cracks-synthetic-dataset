@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 92579544,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:38:04.614Z",
+            "updatedAt": "2023-06-05T15:38:04.614Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBewSE+4lQTkcNChoKAAAADUlIRFIAAAFYAAABEgEDAAAAgmFfCQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAQjSURBVHic7do9btswFABgyjRMD0blbh6MyEfQ6KGoBOQiBnoBjx2KSgEKZGuvxKIXYeELqJsHIa+SLP9IzCPfcyHEKMyhiZWvDCX+6PExIsgFuUiGzRgWNMMWLLuk2gDyj+SKM53kZGvojyIDGMpqqoUy0tSnBvvIZET7RQT7DERQknQAAEa+0KpOAEpVPpBsVFUMRKvKiGyFCCtLHUK1TSZkC9S+DiO6rboPYE+kIivJU0nEMZney73cy728ZSGuw00JB7IRw0pDtwF5gWdaThsYVmwYdsWwa4ZdGLoNb8Fqup0y7IJO7/YKS4+ohJj9x/Ydw0qOzd/eCs2wMcNyBhqnM8Y3YDlvZE4CYygrDMPGw9iUU++KYTc3YAuG/cywCcOyQrScbgcblByr/8GuGHYh8JxO0fs8CzA7lf1QVaHVThXDhv02KDRdNbbeWiFq7USWI7z72r/giJ8t61iJOHZrXdGojfsX0EE6ti36Oh8LK5fmsFYSErPLV+axQmzVwVbuD7OKY3P73jArdvtd/xL6HBJ46l6YusKlbjdVg/cR3/91rfwV7PA0bs9KCS8iINofgC8PPVtniNGgom/LDLey92mVQY4FV12r6sy6JtsEDGZV/1MEf7De6I7fOlSKwVDsYRVCTy46NmzsFKFdmwDGbBu5k9Mdu3S/lTo3snCHE1HXrlxWXv7Wucde1lt47MX3AcNKTxsu59Zo7pKX8yIXE48V6cmOvDYz7Tf6YeLbmWRF2xgdPWufbSuL9u/9xxqtXUDhP3Lj2OnJJppo12A+pL4WtNuydbHx2dlxjxz6jzQnCk7WF7NKaK0qvJsuua9m0TxtrK9U8Zk+2Nxrq+oe87UWY4KtbinbgRYzwkHbOj2ceyaEtOZGiMcyMp8op8u6ur0iBHjSXho0VpJO5Fr7vbNUYcXUVnwjSCFKnhXUrTrDtpllmjVsS0pvtBE36TQ3zpsvpNPcQ7XCvzLw7DHop+R2jwcCkmLb2RBQ2nCcOX6rfh5tyrAbvwW/HTX/xtViVrRXVqhtZpeEXJ7i1xijwe+8aYAZCa+VzS2F++Js0QMH9VT/7qRYny36xlR5HYet8khRbL2WpyI6h9Bo/KaKpBla58fgslWUUwVbF7EOOjmhqCKMbSd+QV8rST2uunaEWVHfmCHbbd1WZU6fXUnjbd3AaoEk2+BsXemYuGdd6Zh102Wb84XN664uSd+uHNb0QOyw/crmuLUWxgVes/WDGZ53sOyYYSd40s2aixLdb9upj+CZbgW+FbIt/pdTG/t/a8ymto3Rim3LOYMaKoXvmsrX2xGadbDLhJFZXXZmtbdwDp45nXE/PBzWDvV8OYOdle7XA9n0BmzMsHOG5XQcZ0XDXy+vWE231vmEo0QMy6mX89cmnHsjbP+vsle9if4CacBLIwU2nYEAAAAASUVORK5CYIK90Sex",
+                "origin": [
+                    60,
+                    38
+                ]
+            }
+        }
+    ]
+}

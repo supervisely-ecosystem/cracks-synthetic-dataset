@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 92579676,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:39:11.837Z",
+            "updatedAt": "2023-06-05T15:39:11.837Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBHwTg+4lQTkcNChoKAAAADUlIRFIAAACwAAABDgEDAAAAE84PrAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPHSURBVHicrZjBbtswDIbpOIh76Oru1kOR9BE87FIMReO9ifcGvrUDgsVYH2R7FG97EW9PEKADlkMQz7IkW6R+ZTNQHmz3C0vREklRJrISV/ZpQwmNuDYPr4+0Arh9+nzwcdRSux9x1Ax4TT6mllyJd4O2K4k1cmQ4NTj+zfDKeHLBKK0rfb8S2Ayx4/ie27Ky0bdHTulO30qBM31rBC70rca4ENj8d461/xMbI5XAZX+NME4J4pXEu/56L7EeciOoWfi9wDoEo53AOhpjiRf6R4xTieca1wLr8Egrgc+dHx05c370tK+xdoZxgbH0j85VdkUeXikcNxKnCieSUqpm2nsbvS5XPlaBXPr4GvnX2/Vip5Nl559PlfZiEgZud2y+BDgZcpBJXL2SqaokqlcNwFTZGsGlfkCU8l8Qf4Cm6RmaFoVuwEdInyFO2i8QH2zZZJKeRTL5lFz4RU3JFZ7XrF9kTwq8ZjUKTJqRu/MMojJqliNHiG6QI0S3GGceLocLk0ZdCknjSVjPtWc7qaCDurR61SRxru6Q+loLbFKvwTiTWN9kzhssly12HfKwXLYFG3kQG601H7GB2Np8I7C5bzleYBzQHnAD8R3H9jVuc4atv3IGDZaLmWNstEXFs0MKbKd/xvESY5uovPbGtkfji7a4tE+sGsyHJ7anjX6xQJkDBYZZ/IxTkbiujAOxLXosO5cFxCzCnQxz18cpaW4Za8ZHp21xt1oHu+/gGFli/M7BjpHMwSuMU4xX1fDovllcQ+3xHVjxH3H6FWK22qNtFutjemcMD9o7Fw/pLZq63PrH6FBQFxjPOS7NXWTXo/lb9GNbvcnKfW+tsdeqtBVwpFOvIe7bMR+nLcTn75VxsBtWyBM9iWCTzMMYNGSFteRjv70Mad9g7Yz8Q5LBa4xbH6tKu/Xxejee2hzZ7sEhRGPQlJzQZmXIDHlAvTWlR2ffGiVRi1x7OP6zRzj5cUAzGFUb2EV3VQV10d07gvBR51jUetGWUtTAtfq8ADBqDj9SjLCfUlYCuMQYNZ6EG0/CjSfhxpPw0SKM4YRPxTOMp3kyzciL+A3DCnwG0AJySgk+QbFvP/82EhgysPLTsNd0n8QvEz41xKCg9BLAJcb+4aeXS4zBkf+EkUAGfsIYH2W7CgQlMFdRAFdTMNgaTwwZWMxpgeJ9AtISqEqBVAvNSYW1MQ5NVY1xg8fcYRwo1YH4CURbYK4CCQu6CyUJxhPfB+PoO9Z+uoH4G3blJ3blLR7T+2xpXME4tMMGpjYwWaFMDoSn3JP+Aoxh0zqamg8hAAAAAElFTkSuQmCCAo3pHA==",
+                "origin": [
+                    336,
+                    93
+                ]
+            }
+        }
+    ]
+}

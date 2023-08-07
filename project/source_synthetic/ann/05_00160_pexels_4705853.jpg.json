@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 92580182,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:48:13.745Z",
+            "updatedAt": "2023-06-05T15:48:13.745Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBPwTA+4lQTkcNChoKAAAADUlIRFIAAADYAAAA+AEDAAAAtEK6mAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPnSURBVHicvdg9buNGFAfwR1IQWRgm07EwdhTkAkznIrC4SJFreG/AcotAnKTxdrnS7CLAXoPOCWY7FwszM0PRGFLv/xww2CVgSdZP5HxxHt8M0XwMBI9Eb7Nsq2GSrE6+gQlVuRKsJA0tI4NP1MM2+8Nie8CWbLYPm4weCmyfBTtJvV0J1gjWSiZUphUKNIJJ57U32H5W2I6jYGab/aiJ9sD8hL9GJzp7g6x1VgG7JfqKzjsKpgy2uqMnZEWTWWwK220P7UqN0K5LbPscW06lYLgNORGcg7kwfqVsJbJesFFDS5yhgJ7CCxLtBLviGlBNbwVnzfRWcwHmRrDd2bhKnCfPLVtDG175e7MWLFQ+4e93yRLJtH/9nTfjX/k4sNWm6CAZH+engeOfxpMNgmloKXj2Z8a14x9gvigQ5oKB0JlIpgWjVwxMocm0YIaRSjjvzdSVKXdFF6b95djwYYkOBB7TdvqetW4a8oazk5vOW0xNxpanpttvJxg7DscP+TOBcVDj52DcnFZ2fKZ7yri5eUP1l4cBWZWMA4VC14evpHugsJZOVubA+icqcg3sb958o08ZFVynBSPJhoqzNNipYsjfYK5PJOtZ8/3y1bcQmKWRM+1toJEbhtJ/acieoLWWixPK3dTJR2O5ueKmETWPpuPmmDdXl5qzw2QFNMvAbNU5IKyOSrCb2cylXc0nN/rCdrOpgTd/5JLZCysEq+YP2eU125dP9xdmBKP/ZNV3tkZYzkh2S++h3fnMDhxKv4NW63caWaEfDTzx7ZcB0e7tiO0nbHtl76FR122zBnbajio+nyI/M9QnZAXlfyIjfhK+ahWh5Ec2H5laobAGFdgKC4iDsOtzEHaSJCPB2m0Wvgcrx2BgwT1bx1hodz/wM+3e/f1m2QQhhOf8OWfNh730mu/uEBKBhVDKLpPO6U1xh60+CtZr4TzWQiZSsNsbydTPfKIdarHj2xAeTXvBstJAS9jFeDqtSo4we/C5HGe7pVWx7bFlD1N5A2PnflG86dhSwfJFXUYT12U5xo/htTwnlOUQm57e7gSbks2StYRSd6cq1sjkzn74y0ZUzmaVz68WGdvLnoBVrqqHfuTsyf7qJlwT20tje+Om8GHxxFNzeb0O1nHW+SSoWcTE2TLjrVtYHtknl7FUnPnhWuWj7vfzkYwf7cKiLCyxq8AWlp3IbPSzdeoYF7G2Lvq8XhLFQe56tWSPO7dYzaY4etQri6NHYbGtt8uUieqypMX22cWy7hfBom2di9VLZOsNZLxdtxiIiyRPtAFbJlicYa93XOIset0GyQq4FUt4O/k1Y/ca/qdJ5VXLf/8FkUgPRJNIrn8AAAAASUVORK5CYIKx4hgi",
+                "origin": [
+                    165,
+                    126
+                ]
+            }
+        }
+    ]
+}

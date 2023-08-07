@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 92579945,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:44:44.020Z",
+            "updatedAt": "2023-06-05T15:44:44.020Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBdQSK+4lQTkcNChoKAAAADUlIRFIAAAIAAAAA+wEDAAAAJny+SgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAQdSURBVHic7Zu9btxGFIXvaBamEAiarQIBMpYMUqR1uUFkjbqUeYX1E0TpXAjiBHoAl+lSpg5SpcsIqQIEdh4giWmoSZfZKgS82pshtbJJJbA99xjYZk7Bn8Wej0Nyfi45l0QyzYS+14BdzF/wGvKX3NYQgLnRiN+GE+j4VDvMrxrMTwosABWgHwfA1XiOAk5RQLNtgPIgQDsQUKAAiwKOQL9qQYBuUIBDAaCfdlDAZOuAva0DplsHPEABp6Bf+zs/pHZQxt35oWxJp0Qb/wEwO8OO7v787mqtf878RB7ytJrXD2wsh5hAR1XsKLmRA3pZtKeD+1q8mWdlZWVlZWVlZWVlZWVlZWVlZWVlZb1ZB4B3v1sAr7On53Ex4e/EgMM17QR7JS9C/ScVy5f0i5cCzmfXZe2BOeh1yT9+GNdWXALL/ev8fTHg6PuF1NvrrILsRI9BPzzxWnrMX2F5MF0iCubXyKRSJ4MC9n/F/HAWx/QUBFiP+R1j/uICLEDxO+YnswIBZQMCTisQsAD9cEJW4TH/bumGu+mJPQ/HDSm9a7sazw6nTxZfjg95njwyfT3cUYvkHD812tN/JwPG/zfsE/0jwIwefpvqp3uD7WMVkv2jcODY+HTAcFBejSvluym83jxcCQbIYUTEkpyHQW6p4fR7SDSo+SX/lO4f3rdyLYjwhoFNKemcbzPKujRR27zhj28DfOSoOhf4yWzWV55CkACON2sOatUI/OrmuqmCmwtRkGNCv9I1Mz8XAXxcWPNH9J+pt/35/3TQHdWum284yDK2uyFBcSB97UT+Ph/s50snT1SNPvW02/BiwAcFEp7EFlDaCgDEllBDeVOFo2uPAPbpi6XDAGDq2PHHUIyrnOUfEIBuGUtdsxxbgVh7cUwRDSS9jI9NsGD5NxM2qEt+Ij4+0VeN6UZCsZ98sDQBWkHh4uWffP4bAJj5CHBiwKfdwj4V+/sk8Xkt7olUX//mf1VSQNGPYaJnVR0PfUZH/Rs/Qbb9nn4WSK03ucHplUDXbdne1y82fVBIBhTx2sX2525G8fQnI91V/fJV+0tPljerKpZieXvqZTLg4Kbe+NvdZMDw2S7Gcw0AiFdjLfhshOlksxUDKkFfojg2oUW/2b1zSqpGqjfxxWpj42XiwbuPVMoYht27CSXSM6m7Wx6r4GrHxDPfjZupAOvjCMDcqrZsYlGWAkB3ArEpPzYcPjMvkgF1mJdtX/cnJpofJY8nvPRF6LcmZJp4Q10qgN2r1yzdHUlMJp8RlELf30DsVR1DUUTXctg7wO/rf7ATeMnNAvEfip7HB7LvAeC2Cpha5OPXk+qT2ItM5YBFV4mB56EvY+9vEUDNtqV5JfZrsA3CAPUMBQCh/PsBaA8CyKETT/CsCUneTY4BoB/5avJf6bmPW0JB7YQAAAAASUVORK5CYILmhh7r",
+                "origin": [
+                    0,
+                    113
+                ]
+            }
+        }
+    ]
+}

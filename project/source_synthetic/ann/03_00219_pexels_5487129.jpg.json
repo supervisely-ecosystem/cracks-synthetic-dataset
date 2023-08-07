@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 92579654,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:39:34.941Z",
+            "updatedAt": "2023-06-05T15:39:34.941Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBowJc/YlQTkcNChoKAAAADUlIRFIAAAH9AAAApgEDAAAA6jzESwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAJLSURBVHiczdrNLkQxFMDx0ykpwdSOINNXkFiYxZg7iQfgCXy8wSwlPm5FYifsPYyKvdhZqpCwkWkQLmGKZ/hLuA/wy5l729PTc0bEC3tygIBNEJA2BSwFtKdCSYHi+h0KOUPAZg+FMkCgiBDAq9FgoIKA/qAA/o65D4Eu3w9HEFCV9UzYcIkBrWaXATY0GWBkga4mdw6Bxj4EhjQERHkqPFOAp0YKTEcISHLwiNmuJjwCCg+P6im+FvhiwgB+OhToUgAmtt8o+m4iFDI96h1NzvwtqEQF/BuuKEAPelGRfsknWjGVBgJt1QuQyAkCc3QtqIKGUKe3IFmlgPEQUPc0BPwl5+mGEAxsUKDFgRkG7AhMC279NSBA593IQqhJYoDIJAXqOjBA5whDwDtKNjsQwNWCoY0Bhd8CLpk+IKAuWjUm+AarNwbF9gMBjNhqDQIBJceB7zOuQYCftIJLVxMo8OAZwNNKcwsC4wUExNHexjAuuXABjxv46jxCAGe2WboU+CCFryUPAfsIO8cjGU60VL66ZSGMHdINoelUTn1GCFSJARILDwU8SamtQOAfTBZVoCFE2mrr5j0G2DtYeKpFXLmWEBC8nJcoYE4TA9Q9nTEnmtkizWyJllzbNDW6AAHjE+tNaHnzOyyG8vKFAUW+YYDOu4EJTmYZUPO4MzFKgb+/BUmkAO7UtTsQMBECv3DMUqAq/TICyh48ICbMGQNEerRmK2mTq6BHlDs5YMCIw3/AUXScJMc4hEBDiBTAIwR8IXY4BHwj1jiE5hdJTsGsI8b3mwAAAABJRU5ErkJggtsEEfI=",
+                "origin": [
+                    3,
+                    112
+                ]
+            }
+        }
+    ]
+}

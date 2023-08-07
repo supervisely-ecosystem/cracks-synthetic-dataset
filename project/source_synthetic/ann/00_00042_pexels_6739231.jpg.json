@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 92579158,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:31:11.870Z",
+            "updatedAt": "2023-06-05T15:31:11.870Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBVQSq+4lQTkcNChoKAAAADUlIRFIAAAFKAAAAxAEDAAAAwyr6WgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAP9SURBVHiczdk9btswFAdw0gwiD0bksUMR+Qjq5iGIPfUcOoKzZShiTunWM7Eo0F6DRS+gbBmMsCT19WhRfE9AjZQI9OH8oE9S/ItikpHLnk4rOt1pMi1eyVR8pB9Bdhkq35nml6GKTmsyZQc6XdPpjEpQ0OmMq5Vpilq4Ca8pVPjpB9K+/XRFp1d0ek2npCazk2R6VJ5KXHLTHICiU02mlEeckM18S6DsP6GFRCnvaE2mrMSpahfwyt3THKe6XcDrVk+5JB8ATvv98pTyxXQLIqX8tvqOEKUDQJvMQHNNpmglmENlfwC3ZLq4QSi4R9jV6qsAfmfh/5FYAulTmg6nZZ+JdIq0g39M2xgG69NE77k05nlETZQe9fEbY3fBlgqjolTmb4y/BXRn6glqzA8RBIFPefR+GZYZc2IK/vOBGzmCuTuD7OXEjnCXDyxysIWxVNSbtn9ry4GZ8RHUPi2d783S07nkSoz3ZPuj7PTl/DcRD+0VP30+/y3e+XMdofFIYfOL+UWjwtJRLYhntay2t1aFvxWjS9LQV/tXh79V8aZpKX99hL9wXUVlhOZ6H6d8RItaxSmrLQ3OOK/lBD3YaxM84/KXKVoydhO02tVkrLV0xeGFvJuSLnBfBQ+u6eedp8dhPd7UOpqBKJ3qHCwVangypSKKo3XfPe/iNaWnNmsc2hWjEbrqQu/uLSHZhrlLIJqtJTfqE+R1F84iDxpQNKBZkvqu275Q3PuVNK0b6i/9NvlW4+/jwrdcezDJJOEPgDcZJZfJ2NVRV7lu0wGpSSTS9YoidVMhzWSi+gGq3DvCrkaoctPKXoLf6bvavR+67jvef42oq9A7GnWtAA1yLVBhd56iFSHKtuBAp4+UgKz8dEmnKwrVfroAUX2yVHOp6LdPohWNunMqiVQRXulmUN3MZlC78VHYmKCbWRRp2z1duwBIo0ucgjuP0a7xXdPpAo39/XiKrQTYmBWg2NjOZWj3SLenh716dXnWbh2lqpmtCG/1PX1C6b6Z2fyCvE41PTdzd2ucTc9L2cw4/5PuttnQon4yoRB7386fmJhMeGd0y7j5nq6HINfpY3r0FmTX6i49bFaBxbUN6TRa2vCi6VTS6BbpEQOaHobZDIvTebgp5bB4QOhyWKwRChoftlUwBlu9CwWjKZehG4R+lf1iiVBQl9YIBUEYexbPoCCJYd9FIEX6wxkUthGkbsOnKnJecJwO+X4At4R8P4AUGbiFFHkzgBSJBHCnsTEguFMFVkCNjFENV5I0aCZIMIW06xsnyoFOg4GM9HtUQNN1K/jam6aEzwtdEWiP3Rc+h0o61RegbGpQKlL297jpygwaDFymS6HplP4hf13SKfL/v85rIIWVeIWXAAAAAElFTkSuQmCCflIbfg==",
+                "origin": [
+                    141,
+                    77
+                ]
+            }
+        }
+    ]
+}

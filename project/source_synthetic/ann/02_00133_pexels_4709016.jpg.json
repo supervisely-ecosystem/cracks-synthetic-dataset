@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 92579623,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:38:24.997Z",
+            "updatedAt": "2023-06-05T15:38:24.997Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBVASr+4lQTkcNChoKAAAADUlIRFIAAAETAAABLgEDAAAAl4NkiAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAP8SURBVHic5dq9btswEABgEgLKDEaU0UMQ9RE8ejCiPIr7Bh47FCHbAB37TATaB1HQF2A3D0FYObYoSrzjnQDVaRAuUezP1h95d6QsBNGkoYQQimHKmUxlGd/DMY5hnmlT+IY0kmFEzTAVw5QzGfWOzVydlWM4g4dzzAXDSIYRb9Bwzmsuw7nOs/VDhuHEDY7R5nyGEw8Zptj35hIz7mPYvkVNv/0FMf3tks1nzNhgHh1iyn6v6BneRMYyjEFMf77aI0TcdxvKo2ZngnlCTbdR4sbRRgZT4SakZY0bG8zDnjS1uGIYrPUG62A8U/ximKbbwjpqlFEK9E70mSlTB1Vhw2JEhj3UBjXh+mcuTzD4aYkw7BxtcpH8ZMqfljQVOv7atp7J3DLM5vinRsd62073oi5x0hmdM6d7oTOEY64Ypitoc6YLk/gA7M0GJ6q7vBlTMUwIpRnjaKOMJs1lOGfURKlrje6qN1gojCsNh5k+DEjEqCgMKMSUj542US7C6qQ6Gi6oiSZwWC21uWMYQZpBJoLnaZJjTHyLNGgKERcg2kFGDboDbEqxpPZVDGoCCUYo9Tw00K6q4UwaNKP+C5rV8F9gfr4U2+ELQA68H2UHCQwLPzpXoMtLP4rGQNJRyWmkZnFNm+WCNqsLhkleYRjgvDgmCUjA1Olm/AIwlBMDJK+k/E8+BBggYiZfvUtNcru2qUkCNmCSaURq0uqsacavpBOu30l/TgeKTkw6UPT4Y8AgSExhUzOuWoAFuvF4g9ZOOEYnJiGJuQMmj+Nj3gOmGl4y+R1I02p4nYuvljRgbTaKUUkffGnDHgUXBPciPoIdaPTAWIhs9YOJig8DmVV7EXsDryQvW6NoY+tw/gVExEJ77/dd8QKM/sMnW9Lm4ONdg4L+oWnvyufOWNiI2hXfTqYAD/nFCCm8PQQ9+JCPRhjvlJP2Q87cPa0XG+mTJNA135pPzfr6UuKz74Opm7JRvkEnWcfBLE1bLK/y5pDaDEaCqTKmi1v4+kVUNyiUtPvA3+tayTBpqoaMJQ2+ZjPNCJYxtMGn5n2raALHpVc08CCfbuBY+nomswQyxfzBV3+6VuDRIrTMmt9E42jDeODGeShX0YdzVsN6kMgw/WptpmXXbaYYM8v3SMb1wXLxVIPm4n9haDKbyWS/afsytMHWdgaNYzh9FXuSMtWga19R46RBTrrAnjS9luF0DlYHMu/YWNqwHiA72uCLsBMNp07AH7m8bXPOgTpbTfuDYehJiMQf1E4ygmPwB8eReaDNLWMUXnB+awavRoxawzCOYThpZfWfmR3DNDQp7BlNQxvWT5fmiqwcM9dsD13TidpckQxdY4oap45kDdRt7s2/y+WO2viutk0AAAAASUVORK5CYIIceAJr",
+                "origin": [
+                    237,
+                    197
+                ]
+            }
+        }
+    ]
+}

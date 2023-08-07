@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 92579322,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:33:27.598Z",
+            "updatedAt": "2023-06-05T15:33:27.598Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBjARz+4lQTkcNChoKAAAADUlIRFIAAAEjAAABVQEDAAAAnpUbsgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAQ0SURBVHic1do9ctswEAVgMvSMmkyUMkUmvELKFJnIR1KZwhPxBr4SjsIjsFShsWJZFoldvAe+UPBP2En6BIIguLsEWVV06/lPL6PqoKjmv1baMdb9a6smFFRdObWS1LpgW6vw6qov19b69VUnKQWJqi3Y1ifw3QdJNQVVOjO/SQq2Je0xHR2k0pFGKu0r6v1S9QWotPea+oFUp6h07H9Lar9cBfdFLbUFVRJrmyuU7xdUSdZZvQ+VVCLXqMEr/zfcVgAo7X1BBQP5UuW/0FU6ElANkvIXaSMpXAx9ldTHt1cDUj4kNyUV7JdPMZrCx5go2K8kqWlqKykU74uqJLBCVWsqLFI/JfVruUoubpTdy6pBUttFCh+jH+s/UPla5EFSB6h8b0sqmNOqNihqI6m2Nx9hpZDsEVYwaXrSFKrS0rRJVG8/b6Hywe8a5YMfVv7QNYWP8Q3UnaTcpYXPtlcDVruuoAqKupeUm6xXKTulcRYtqxqjcD3hsweuFB43u0emzD6uVFujBozs7KTKTmmmbA4mM9pFaXJ1iKp9Y7WV1EDURlJtF39io2ozEev9KeLfzKrTJJ4K5S1Rp8kyrUB8J6oy6jNTe2k9a+/HDG4HVR3n1UPVCOpYrXANZLb7bs3OXrStVTXMq6YSVTev/ERk20ZSuPxcpu7myWNaG9C3N5Ly66VHqNxKaH0MUNlvyexybW1wvetuzo543lhVS6oR1QDV2qleaWt/KymI3Cohm/RO4W654qCV1I4ouw9RBazsXcSxw8ret+B548tKFm80dVBUvUDRusyqXlHsEZRTHVGmvyxa2gqRpSCrWHIRVYg+1AVVw6aXU1JbbBIahRegK7e2tBqIMmeOPm98McWihM2ZfuVh+oH+Jd7MjKLPCDW1iz/gFSNZmdLHLzVfttoolrKNYsHehgk6cUz4oBPHKFoHGUUHdYHixWUf/UNSmUI1Uit2ZTsVCIrD7ZruMb4NbmlpHJ+UHYsSVSspra1YkRKnMrm9JiWOU7z6j8IEW0GoTJVDZ6qpqzJ1faRaSW24ih7QbHqqomuelThLFJ2DVnWCypygSGWGProfZnWjrtaSahXVTFE5c4KiEK2pzAmaqsKaFPbnFiYVJMVRpHJ3xpoa90PXukxbdD3vtI1ZrAlXqzFkZV9K0tR4/LTgqOLsmrtjn9SOo0llT+OkaHyuonIxuwwytiWqIKkuo8bgkH07a1TZpYtR5QZiKj2z60GXNJSd9WMays76UeVXjS7DlMkukcoFnEmxm16ncmhU+fWgS/DNDv2o8ktxJdVzCZA/jRc180bls/LPMLHKJFBdnY8xe2GPKhtTdfXUofRlQNTW3AuVZ0VvcIyaW5M8q7nl4LOaW1r+F6XtceYEPRcwvaRuJTW3aark67Wi6sop7YXe96rmrovyCr7M86JKeGBUWD3NnL8MUZ+Zgfu0vQAAAABJRU5ErkJgglysKtA=",
+                "origin": [
+                    197,
+                    0
+                ]
+            }
+        }
+    ]
+}

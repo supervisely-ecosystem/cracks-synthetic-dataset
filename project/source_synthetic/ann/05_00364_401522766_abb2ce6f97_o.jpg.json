@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 92580047,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:46:25.574Z",
+            "updatedAt": "2023-06-05T15:46:25.574Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBkQFu/olQTkcNChoKAAAADUlIRFIAAAA6AAAAiAEDAAAAjHdqFQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAE5SURBVHicdVQxTgQxDPQRdKlQ+IEfgkR4Cj/gB+w+i+5S8gTKragoUh7S3ZqIeBwp1m2zo7EzM7FXS0QU5UL/TwA4SO0gybkDWi4Au/acZFNGHtGtTFahAyuIoopB5EstoCOiynC/g1dCT0JP01mhU1B6RQm3sJ79pVMMi6SlBgoUNxzbpsvf4/JhDEgDPYxA5674hB52obMGajftri3qjqi/GEJ3f5sPNb3vKVeUzyk7j311EE6avQn/aK9uKbugi3zAswB04SPWxkiTMFP7MhiH0kizKriipG9ibRlMAhMN1JkJ1ZXqzVJygH0Jyj4Pl5kxEF0PrzNIBGCMF/SmlscnrA6glMHkchugGcuhxTFYIC0AWOAo6afSGJoZ/BgCQMQ/I4GxwVtkG5h5ZnOwkrN6B3gGOOr7D3N71Q2FaPkzAAAAAElFTkSuQmCCOkuj3A==",
+                "origin": [
+                    220,
+                    0
+                ]
+            }
+        }
+    ]
+}

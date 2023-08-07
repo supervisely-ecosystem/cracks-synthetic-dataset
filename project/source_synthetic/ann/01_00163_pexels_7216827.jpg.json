@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 92579409,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:35:19.191Z",
+            "updatedAt": "2023-06-05T15:35:19.191Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBRQS6+4lQTkcNChoKAAAADUlIRFIAAAFjAAABAwEDAAAA2vj3+AAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPtSURBVHiczZo/b9QwGMaTujp3ODU3wQ0V7saasQNt+CAM+Qg3VOIGRIJA4lsAn4GJMRKCuRtCYjBiYeJSieFUpWecP05acWmfB2Gpj3Tn9PQ717Ffv37f9xIEtXYCRqpk6GRDwLunCQ6LS600TEtZRGuYngqGXopcVjhtB3MA06Vdnn0UjrR9Eyid5AQdnjbvOUg3XFhA8Ilse9UQnXQzvYDoZdt18AyiXZ8Yrbv2EUWfQHTRtQqi866N9A3QX+Joie+HWs8pOnnM0KrwR0cU3VkuKEH1HZb+6OCCorOfDK1wX2gVUbRkjhOSFti277SDbWSnxtnCijzSsmDoUDN0fVwRopaepLnlUTlFU31HFE2OhKM1Q3MeX3xj6EB6pEXO0GhM06mgaN02WIhA0nHbmAKi5817ZLBFndrXfqC+YntuYl/Ziw146MuzIPyyqoKHEC04ejMVefYhEAWEm6yxLDBQzUw7HRiddFOtPdDqvOVSiHYxzQKj83+hj6iRPIBoodsWTK6WbRNiR61LwUSB0C4Fw47DibswCN2nYFkJ0L2tKmgnp+4CciqJ6xM6s/pKAORwI0djQcLSXUCWFbsL6Gieuwsofu9nztnjjepNO0TWZ0g3kOBzCN2Q6GbwatEZgA/zjAx8MKflDZTTvS3fG9dQk0DqJMNtTgG6N77sFUIvm9FMAvP52scjFbODJqmOPpof1z4eqbHsN/tNGXP+vvukqhd4xCbtjsw2saXXRk+FXSJRKXtmjOSr0TtRZZvEzI9NlVj/uVb2j2osAAwvX6+luagTJqUrmW3sfwmS1e/t4w6NKRtfFf6S+TK0w7AhiBgLQ4QxeWeu9TzMwrxOykZu8vtbY13m7vaetozDDgSVNKuVhmn1Rr6EYbvnmRj/CDz+WpVMJiM0UYi0+yUlBrJHhb6zvij1/+mYCtk5+pBKHlIqMVnAhdxa+gkBq09MdhxCJ1kvrspF3STk4QeBmVEnLCZ1WlC0ZmBuup9SdFYQMJjodIJ/SWg0uR25Im7dqcqcT+PmajncVvC5cVKKLvzRXLWFq+Rwi5NRNFVJ5m6SK25RViKoEp4sKVoztE/j5vx8TNEpRWsG5jx3yXTNrQ33+4HPlZzfjlxRTNELii4YOKS65h634CYQScZ7cTYlCobmjlWPLpCMGakJ5LYZt5Izij70SKceac3AXPRKxro5Q9+naO7nQirWhWp1vbibvDvhP3fApwx8dzIisOrVaY+iY4ouGZh7QIB7+IDbOExVzeuxcHdCDc4Cofp5L59bmJtubik5mrtLnybI0Vwk7TPu5ugFA3O+h3vekXtskHu865iBvfqe1CM9Y+A/sSwMf60yp5wAAAAASUVORK5CYIIthQZ6",
+                "origin": [
+                    106,
+                    177
+                ]
+            }
+        }
+    ]
+}

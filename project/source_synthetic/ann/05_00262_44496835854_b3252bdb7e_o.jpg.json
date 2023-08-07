@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 92580062,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:46:08.732Z",
+            "updatedAt": "2023-06-05T15:46:08.732Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBIwTc+4lQTkcNChoKAAAADUlIRFIAAAD5AAAA7wEDAAAACg7gVQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPLSURBVHicvdk9TuQwFAfwWC7crS+wwtegWOErUVIgkhUFJVdKt9cI2gu4TBHF2Bkn449//IbJgKUdlsmPiT+fXzxNgwsbdi7cDvCh+XMQmHauAjFaWwXSEkBRoLW2WgdGXG/ErPoqkPW/d3UcqpfZoOtAGNvVAdEHrhunY4BRd+C2p0B3FJj69Tp4pMDo/rHD4PTyvaBWh6cd8BgD1IoN+CUNYsP5bx6aZenvA925KdlXgB9p0ZVgbbmwjqoSbF0j7YhBWIqnRY3Aywr+uUqgGadON5D21RqGJv0JuLjz144MLX25fKqPS8K+oWUlO9e/bAlc7RsabQdMAMp3BagDn0IjZQYel1fd8Nn35+TXVQpONXpwlWvUAhgEz+6Tmevme9+WFMwBqHcPfGnTZtoAtOArSDtKB9CK9xB4dBo/VADjBqRKKiE3YD/CzSUCzHD7ES7wsQStHVzgWUEyIUQAPd9ax23cFacp7ECzAZaCwb/6UbrH4BSQsthro2out84HqM1BHnxV3ND5IpDNUxX/7teM7DMQD6gfznyTTHZFeQ3gCejL9cxyIDOwrvbLgB+tAui4QgaBIQIjAuN5+CHwfb0GGj9QMrvue0qsM9NHvgJw694PoHXTTeXA9a1agQ8rJZDDmga5ZMKalxLYM+gQEGcwu5uUgS8BLQZ2A4ICDAA+tQH4uaFRfN8ikW+BHQD4Ff7jd8rWAJD8AuJ3PGcaBnaApPvRHnJjICigrgHyMEhyABJIMJxJRifBcCaBjQOQdN4tQF+CeI6I/4fBawnSpJFfAyYKzBRInhEQSBYkAooCMu5eBJo2ehM+uNGgIUDcTJDnphPiBqADwJKgOwiauKtp0CNg6oDHqQ4CySYAwUfUDAgGHYEBVDJObYRBIHoXgyixxA+IceYJQbwTPUHQUkAbAqjDQFIgaicGzY+C58Ng53zrC+DhMCiTtaWYG4Iio7wQzIeBJkFHAHUxkDtnWFv36B1wF36yvaPCFcirwe8NEMdgnAI47Y2LogDKtNJKvBEAbxhfArz/fmCOApTdp4UE5ZNUVnYCxLnc7Wy/W3GBvX7ELKd4f0Fgzg+BsiJscm6BQfWQWShFATvp2lm7kA7Uzqmle3reCwJLUf7xuq0ALeutbF7y87isuMwOPXRGd6h/frLP4xInuBgQ18kpyag64jQpKsRXImluCatAA+IO4Aj754EhQPX7hssAVYdLvgesF5xWR0X33w6I7+iYIYCggBzzI9Cs2KkO3MZdHP3lAH1jEYGR2Nr5QG7t6JQlKZLasMi1zfv9a5/xUzLzsP/EFAAAAABJRU5ErkJggk0a5Eo=",
+                "origin": [
+                    32,
+                    61
+                ]
+            }
+        }
+    ]
+}

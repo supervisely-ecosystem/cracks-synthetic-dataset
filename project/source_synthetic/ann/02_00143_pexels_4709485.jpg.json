@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 92579621,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:38:27.353Z",
+            "updatedAt": "2023-06-05T15:38:27.353Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBOQTG+4lQTkcNChoKAAAADUlIRFIAAADcAAABBwEDAAAA/xq6mgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPhSURBVHiczZlPa9RAGMYzHWkES9ObHqTpB/CwN0WK2W/ifgNzLLiYgODn8ejBQ/BSj/0IAQU9CAYsuGLcmG1m5p3uPHmUwFpzaIf+Ov/eed4/mUR7EXn0/wZVyWj976GiPSsGF1Pn5D2nwxmDjxi8z+DBZLjP4CGDVNUU0jmnL2hHcLptd3QqN2G+mEFd7gTSQDQd8ohB4YLB+eSeFM52A+vJ8GTynDcBjxikMXV6wKU9n0yGGYMpg0lJIPVB6vcx65lVDNYEJg2DKwLTlsCCwe4Lg68IzF6W4/CUGXdJChvVql+jULfRehyuooTB8UOLV5GqRmE/Yz4GH/amPRuDWQ9PR2EXRcdjsOjh6F7SNdH1014l+v3YnE1v325s2B5GY/DxcgNrDN9sNplgqNqNf8YYxpdF/1NjmNWbmDCilKS+Os0cwmeDeXBRWVRXEEeqHm5+HZYIdtVVqIkvEFwPAUM3GA7yeo7GPTXCLBAszElDeRZWXTmAaWki9RGCldk/iuZJY2IfqotUY+os6E2N+St0/jMjWoUC2dpWLsibjm1eRstVdWNWhGBrVKArNK51QAgfmEYDYGzDEBJZYr3oHoPQ9BYiBaZ2TiSG1K1ywSCwriQdEKsEAocRCJSiVwy6KA4OTTmIqlmJ/3UIM9chD2FS2RY4NO0gOhe3FxlDnqVtxACKTeuAqa60TXAu3dy2gOkL1wIGlCCuwxWJiUBoTWsCvQifh1CcehnAVGC4l1hgcr49a9wI/LSdnDwYd9+2YCZFT/J53lyHyUfpWW3LwcutuooOTsZgb6Lk+3npwf7f3dP0a7qWML3V9lpQqx9+VaY8mG945w2l2muwl+jC6/pCmoOKZt6SvOJ4UKJfYqYyxxAI4/Vd19erYodKRH+Q7XjBf9Cfjr466PmIFadIx0v2Nkn0hjkxfxIpaDPIrbUzjecjdoY7Py303h/cDJmB6i2ALiaKE0qkT1+bhvgZcFHPfqGsU9g0j1f4hf7rXWSEedTXXwA1hRWBEYVeYqCwCqAnlEUAveXOA+hpIezp5WQKZyGU6ASyQMrgPQYlLYFoLccNkoucKEqUDoJ7RV25FoA1g864qFJrCVSXrlWFUM6sDqBn+TyEBYG6I5Cn9aQlUHIchaiKW02Gzl1uA+jkgXrqv4LohTNm0Lk0ehvdnxPonBu99UgYyUMo4gQrktHApKJc8AoslSNSrpSV4bBRYVeEak53aaPehVCKmyKEshdwKyRJPw2hmM2vDcIxRi8YNs+O7uH5VzQG+VMxWDPYMJgziJzJPfTLAP/QWBK4d8G65gzSL2X0KpSu6I+fBn4D1noUQd1ajnwAAAAASUVORK5CYIJyA/Yj",
+                "origin": [
+                    292,
+                    40
+                ]
+            }
+        }
+    ]
+}

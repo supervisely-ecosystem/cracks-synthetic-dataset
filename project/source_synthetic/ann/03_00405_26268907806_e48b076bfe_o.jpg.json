@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 92579721,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:40:07.637Z",
+            "updatedAt": "2023-06-05T15:40:07.637Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwB7wMQ/IlQTkcNChoKAAAADUlIRFIAAACgAAAA5wEDAAAAo1zPugAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAOXSURBVHicpZexbtRAEIbHONhBOs6hyhWnOPQIuaAIcOLS8hLEEg2lC4oTAp07GgoegY6WJ0DbhUegXApqLFLkECjGa+96Z73/HY6YIl59md2dnZ2ZnSMyEhKQsBwLA4GgHAvpP2GB4CsElwLAp+N3yndpZkjzBMEFh4X+HnFopiUcPkHwsOy+MYeh6L5TDoPKXcbZ3jHJHKVwoLZJOnDefQTQDEoHzjrLXNhNjxE8cxhN2r8rF0bATA0lgrkLpwAG9VhI6xLALsQGMBXApNsKegnRQjGAarmBOztfeOmoLjceMHpGg6BRMqVBfBg4H8I9MrfHJNoGvenKnKMhVBUnRZrLIUxKBIUXC0S3BKoFEqVtgeACTV8McriVOQXe7nS/zzAmMYXvAfRuQ3nEuw11vwAG0nNnI5d/AKwRXFcAvgbMd7GSAsF8NITTs9HwAEEvEK8HPwEWbAAMkTtjpOnloBJwl1tghCB8pb2y0EKBVOVoWCAIgwGd/Rph46cWgQqyFU5RIiQovpPfwFJVRTxJSwSRJjS+QFD6qASwuTageSEATL9pi44ZTC60ZsZVa31yx9ylhgWHd6ru6+6noXBgN+9uCeAawZoAfI40B7tL53/k2OKcyCTCGV/UvI8JhyY3nbbDVGTnRTXhFQoGTSQ6T3cfnhWDfbG5QpC/Af10ns62J2Pbr3bDUwttwOcIHlto/ZgBkzic7IYzBJtRoId7HBpPOzD+guAVgNNLMYDNaJ7Lwe6ROl7RDvd72LzKGypaA2YMHm7oYV06h4vLtKLl97clh6E4UY3eueRxGchM1YkftROsRa4qyptm1dzCx1I1aptacphKdeMrqgSHpTL/mNabUwsfaQvXlejZxFh3s5I+pF9VD6N+eVYnw36l9IU9UWlG7I0K+pH1Md0goBmBUdMkAWh7j/gf0AY6y1Oryd69yk6yUALI5gS7IUFNa0fYL88qi60SCdJkD1j804zYj7HksxmxBi3pO2f2qCUftU3BV7am2Sl+Z2Fo/LDksMy7wTriMOsGGes9QlMvcnb22BidMy8dmeNJdh1zHSONC4senuhoCgVLs0xnbONNCwutmfAKVuliumQwrPQ1LFgBjAWF592GFjYXE7QJus9SVy1Yy859/e7K8tXLuIUHBip7sknSwhnXpKhrGwbwATnSujvOEZTky3gYIgh+otCWTga2yvcQhN0q7IAhhNPBL6Rm+gcExXj4F7n54jy+Sa2RAAAAAElFTkSuQmCC3NzBQA==",
+                "origin": [
+                    261,
+                    59
+                ]
+            }
+        }
+    ]
+}

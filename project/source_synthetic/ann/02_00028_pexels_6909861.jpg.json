@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 92579581,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:37:28.681Z",
+            "updatedAt": "2023-06-05T15:37:28.681Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBPQTC+4lQTkcNChoKAAAADUlIRFIAAADPAAABawEDAAAATLVPUAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPlSURBVHiczdoxctNAFAZgKUriFJnIHS48tk/AuEwRYh2DCpQbqGJSZLC4DBUFJ4DlBOQImqGjUgNDkUmY6D2bCfv/f4aNC7ZYGH952o20+3ZXTpbFJQefPU6i7HHaT6JDTgWnvOXU8bBLTuecRpwK60eF+mEEe8PJo2oetUAUOFkrS0T9UJ8iuhnqKaKroZ4jmg01fG4nQw0HnSAbHfBpeyuI/FKBU8NpichaGSdFIcoEhaGeIKqGGj6wmpO1Asf+lJON+h5RHihZP/A8W9xXa0jL+2oVKJ13iJqhhr+z0Qki6xzMO4KmnEpOI94Ni3rL6QrRjEcZ3SKy5PaZR3kee1g871WAfPKhW++Exq9PiGPUj5BEHadmqGEGO+VkH54h+jTU8KnMOT0b6jeI7KZ/aymFgGioQ00JZhUfneiBOaEHdsKpfDQKPRWPQrfehyCK8nEDdxGBRvngOELUDPUELWKWAyarNiZ7wBOUwmxGHqPZZ5+NbigVv1Io72M58Pa7mPadGnBBTyeorVf2zzrE5I/5tqZ0s+QERqLTJYiaOV3E5Bu3K9BDn5DzmDY3r2xj8p8uQFT78EdAVB6qyDb3FczZM06b9SRua7sJj4O2peF0NqY05RvkGRodVuY9Jx5ViihOq45HcRJtwRnmBa7bVsSxJT4i7XESUU+kfzqOba8TJ9ItxYl0exPiqAmncRQeU3yEWGz/95PTuo3iNgVvLp9C3V8fVH9IjHpOI07FB05UsoIf8Yv3nL5z+kIp71pKPzjdUcruAqV1R0kkgYOGEj5DeGNUjsRwS+u9iEL7ES/wKG5lxglufx8l9bomcBNJVjQm8i88sHgR/VhyggduK3B3aUW8GxK3aucvvdTvvOA0TiK4o7YiFh2xVKm3lC23a04Np+X/QSLjiEkrZoQYifk1NzEzBaHDjLeVRrwtQep9LjzCW5nyKSFufcl7P7qjlK/4FdPytvjF4GshK3wVU5smsR4JqjmpI0vFSVyw49RzuqaivlkQUYGSWKnEABDPi4+ovde0rUPew5Lfw/IdpXnbMxrxqOwrJzEOGypqQAkSF0zKRGLHr6jn1FFC72K8qPnacqKSPecklnqxXxK7LLEiVpxaKmnffarzlLgg74boofq9BC2SSBQRldaNesdRRUihtL25KDv/GjuRPlJSmyW+fxF5I+dU8JQiNkSJJDZf4o1Kz6mjVHISbxcEiU27yJQiSlDaX3WoHCWo4rTgJJaAnZ8sd37oVBR4N2remFj2xFZf/U0K70fiuXicRi8pLeBXpUZ8plc1J94NQfx62QtOJSe1QxDUcqs5jTmJeSTKZrL8BnGG3DfbZc4eAAAAAElFTkSuQmCCUursHg==",
+                "origin": [
+                    305,
+                    148
+                ]
+            }
+        }
+    ]
+}

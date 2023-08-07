@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 92580118,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:46:55.138Z",
+            "updatedAt": "2023-06-05T15:46:55.138Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBQgS9+4lQTkcNChoKAAAADUlIRFIAAAEFAAAA8AEDAAAAM3DjzAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPqSURBVHiczdkxbtswFAZgsgqiDoaV0YMRpTfI6MGwu/UaOYJHD0WtogfolRh06DUI9ALKpiEIS0m2RfL9es9phCIcAlP9KlMU+R5JKzVStBn7l8tF9l9EXr1dFP9FTNHSKcS1BNStKL5KQDdSC1gxb/8UsqgZ0T3FggGqrFRp9pzwb3XruGaownjBNaNt5C63nNDPXnCgfZhaEKU2knBVxouMfdS2aCsK83YxyUSQwLsR8oS8EsVyArF6u/ggiqyWRC6IXIy1uX0WvkPzk7otB6EZfj5J4IJAOsV7ey+CjaQXCvG1XHAPuaXye/GpQRI2uTATxZy040YSm/QCEaTH5qkhYpMIU6fCJcJaIppYPBGRORfVD0QoWWhXhdWyJkIdTFgrHBU+4TyEwlBi1W6ozA5A7MKRN/uCRLikmaEsd5/9HCoLJFahWCGxKH5Up89lo4D4WAxB1ln/aKTMZ2oQRoEum6/PHaKbzyjU5Y1an4SFSzEfyDvhs1f7FkFcP4mZfylVd0tQttr/x+Kq7EbCt1GRO9e1kkyQtpSuE83NqChelp3oKjAj68bP8PKPHRddDNhkrPC5a3UUIyuD/Fd1fxI4j2XuLPQLvsnB3J2WaiNf88k86Op4Pyx0Y8/fWGHiBmFEEU9lIPTwMSpBIAUhoi3FcHmJE0QYnfGmIBRwiESJBfdquC/CfRYOYA1FOAn0IwDRGlyjaKajCurV+JWjXk0GBejVVwuwa0w6CaTdJAaCTWGyk8zpOEtmSQZ6JBaoz5IoeUejZjoXD0Skd6VxNRVknOUmuUDGGRXpBbJ7ImKbiuIxuUJWJiTzkjdFBBky2W9JkMelIp1WsiDPotK8+k/iIa6CVWciCip2iaiIaBcrlhVbL+qhCnKoX1eFUQWF0FhYIPahgAcF+3ARAMW6XdOw4lZtBVGq7VCBhw1lFT4hFrUg8u/mNQK2I88nEIUonCSKp7BmgYjHLhLxrqsGIkq7I+NjYgFz8C6swDxeSyLoxWs4bUOR4y1pFogKiuDNegyFDb+Q7EBVtGPyAq1rbu8HYfHK5274uBcPtPajq8VTWY+sfIayEQ8Jb0WxvEAcV9HjYlEIonAji9ZzyUXhV8Y7QZg0EQAhHMpfJISTER+NhFOvVlSs8AlKOMDbtkd4rPCTXHh1VjqrbgeHtpoR3TDe4a1AX7q+YEWXifbciVQnltyb6bbIeG98LF3MYzukF4YRjST6ZTb36vpjB1bY9i83QPoWkOVnUPqMyN2jj8dcO47CMt/St6aWBMyFx3ItiuPQMZLgItlaFLUojCjUdMJOIOQfqqSfACYRMOW+VnDxoy/yL0T4COcv6Vs+QBGTDsgAAAAASUVORK5CYIICru/O",
+                "origin": [
+                    46,
+                    53
+                ]
+            }
+        }
+    ]
+}

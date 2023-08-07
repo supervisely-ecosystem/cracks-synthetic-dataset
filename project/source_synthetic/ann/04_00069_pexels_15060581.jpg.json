@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 92579833,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:42:23.524Z",
+            "updatedAt": "2023-06-05T15:42:23.524Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBYQSe+4lQTkcNChoKAAAADUlIRFIAAADRAAABMQEDAAAA2MfVmgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAQJSURBVHic7dk9btswFABgqiykDIHVMYMR5Qjq5sGI25soN2C3DEFNL+21CARor8GiF3A2D4ZVUaQk0u/xJWBqIwVKJLGsL5Yo/j7SjAVpxuKJsmvCrgirCROEacJUmmWUybgVqRYnsqjnhC0Iq6NyyZpE01GbEZYTRV1wGTVOFCcnWmC2TzO2I0yf2RrCbgirE43qtal2+Y9YWjdKN/Hf0HR/5vvVb8hS+xg1PbylPpYn2vsT5IUqs9R6+ItjyDhdCsT27KI/aKAVrcshatLeSUPLubJ3UtBmTDX9pxC7YqI7W6C2YOvubLXFpv6aVZKx5QKLsprexDxmdaYwy3T3s89kiZli2dOes3KDWHdqfShY8du+91sN735X3w+MtxHjXSyxtu/9FmWCuWsTS6zse7/VXPb/uxujQWfZcDw3de5sMWWxbyVz8xcxQZg+snq0Vlpb2IeZrAvIWm3tw2hisl9qtI05HGrf/OcdYWvZW/eUGbCKjfZoTmeelTZvvckj80oxMHM+m6y/9dAyvDjc2FfmmTcQXTxjt7558bup4aVvS8xcPuvQ5r6J0Cr/mjq0cjuZ3+HM9QpjLsjmnvWt2QS8roZ969OVZxKxd/YQxOiegWWNuWketzL38nZs356zGRzXO+M/zEEFx+euXfF+MbCCY7Bpc/1iYC1R6wOVVgrM+g+0my0waS17aoFVyhqX0BbaWsEOS2Bb205KJoAJsesngjn7VAKr9s7gsrRxtoB127UtuwZEJrtCdZcyhgRxJXMmoN2aVhaxrWmWxjQg08yzR40u4/tstxppt240WWlbHUfpYTC4HM/s0lAH3XkwPRhcP7rcaewRXO4U9giu4ynsEUZDwqbRkPAnH3KEhD+jISHOaEit29twjdW6tS480NBsFqotZjYL6z0ecpj0sMTCCmv3M8zs/ZoygzQUR8Hjxn8m2gGxoYgxq93rA2FYpPlaqxETiTacawjThKkT2Baxxr1iuz6Uuftk2DUJyyiT7hW532jI54YmSxn27G/SBLSSsHEDsIY2dh/Y5qeigkNdN465BIfIaZ6Es8M0EMMdy2kgnq4ODRaMlzswGHhPBTJKmSCsIUyfwNTLDGzzegbmOMo0Yc3rDTQmynTc/MkrNMk4YX4YF5piJWFV1D7v/M4TdqS7IEwN7Qthq42OWzBhhHYbWBhrLAMTL7Y60ZrgfROYDgYjHZiKGw9jq9BkYOrIrqLG4laEfS6wnLY8ZixcShAG4jMv8ALbN6cw7xlAXrztRk5YcWxemZWEVYSZhV6QvPoTTdQ+anFkU3tZ6+PP3Uym4lYA81KyxYk0mWbUd7jnNmxpMSTqe+HUTfNzb6hTlrppLgjTcSK+TyargfoKnnq8i+nwDxpaMMV0vOJ4AAAAAElFTkSuQmCCwjEa8w==",
+                "origin": [
+                    70,
+                    44
+                ]
+            }
+        }
+    ]
+}

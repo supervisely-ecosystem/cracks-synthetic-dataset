@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 92580030,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:44:58.227Z",
+            "updatedAt": "2023-06-05T15:44:58.227Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBQgS9+4lQTkcNChoKAAAADUlIRFIAAAESAAAAzQEDAAAATuZtLgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPqSURBVHic1ZjNbtQwEIAdXBokqgaJA0hU3QNn0B57WLF9BV6A7iPscQ9Lk0eAJ2jfhPAGvcExBw7cyLGi3R3i/Dgzk3FsxGpVRuo2dr7MjzNjO1a58kiUKy+jA5g4U4VXj/Izh0rd+pgkgAnRc6zU1MecKnXmY2YBzFkAs1LqZQBz4mNKpY48SFTU4XuZZAeMrhidefTkzd8oY3R4mNrO4t+Z2Pwsx5nTAOYkgDmzPx5mOs6sAmzlfj1RAKMDmDhET/07HnsczIwXT8OMF0+Smd/TAD0T3JVz5rDRhp8qOXOMLLYMfGBM40ncMxEkwKytmht97wSiz1vKNMZNsbYC50pdUGbZ/LOzZlQO3W5ba2vKaIy22KPOyDvL1Hdhkw0ZO4gNHMN9z+iWiTvlrX8XKP4uaMu2/kVXRa+nZaL2XnrdPdyPkZ2d2uDB3pnfDZgZQSt5Bd21fVHNm096T9WLTccQhTFkPaPhW+P3IWHmhUIC0Gjqk9RYWWeYUbPkhjILNVwPNSyVDUfVA5wUjFHpfdalmJFp5U7Ombfp5lmXGsqUqsZRtRIDICbJYml5TuG+Z/TXq4XAPAfovYxwyijUjbMESol5up1jRkLgS4neYbSVEIAbvLhNhkgVeYlrmFy3kpo4yEJakPv6+g5q8zPUGVEm3pTpD3NRYqYkTDUuR7X1Be619VxV0gS2XfqRR209q/gWbMZTF+bdxZMEbt9kItMF/36ToHHQOWba1uNqcB+h3owwtXd58gt+o96EMHUE6c+tOpiiTrbvWZlKAJaNM9q8rGIDnkYr2kxfbz+qObVPh7BOhUHad5OXbcN3jgy2T/rTAOGh9xMNZlhb2gLy1U9aMXnfys+wZG2Ereo8hFqmtCkU2ECPuLNd0qa4EWCM+AVRjJquRee0WQgMmwRiiZnTJl5PrKxpc5IJDHs9PEklJhUQHvqlgPBNvDSEbDyaSuYM1SMODxtCMXtY51xAeFVI0zya/oxE4qpDJw0xLJYuYlgsC6U65nrkTznKyJ+ElJF3vpSZiQzZe8vDQ0uOLUwiIxYOs2X3h1RItMKCa+QQNxxfwwe4Ic49VE/kOHXAjJwZlHG4TLJBzgyqx/WRj5+V32j3dRbOSKsAt1X69Qw3oa3UBwAtkzkYtFI6zyWQLccbJfPY2sUgW67QMeM8j0JxFQH+5E4mc90R/XGKK6/+ltF+ZGe29ulPkJ5sf4zvAM7IQ3sXIT6HMM4CRuI76DTiPVQNZHwHr7tkvIfFKuDQ+QEyzskUyTKAKXbDiF8unMn3x+gQJvMz+yzlkBIMYXbl8/gRbyO7mhJCGNf2Csv/WKaLHTHn/eUftZ4OUBkH8gUAAAAASUVORK5CYIJT9gGv",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

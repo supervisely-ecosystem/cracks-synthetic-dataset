@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 96670170,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:37:29.619Z",
+            "updatedAt": "2023-06-05T15:37:29.619Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBWASn+4lQTkcNChoKAAAADUlIRFIAAAFJAAABvwEDAAAA74+37wAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAQASURBVHic7ZxNbtRAEIVtGWR2fQN8kRG+FgvE+ARcCR/F4gQWqywizCAkoq5yPb0HlKxIXbuMvjjt7vrvmnTdibw5+/Bc3vPozKP3hUdXHt1pdH6i0cKjb59ptBPQzynoBx4VTnZeaHTi0bLS6LjRaL/TaHfn0Xml0WnLQAuPJu1WDvrxavQTjwomM600qpws77Z6wRf94FHByc8bj+4Z6J3frZnfrZnfrUlAv9JomWi0S0KXDDQnHgw7jx402h8rzR4bjQrJjpDBJLk4xRu+IrQsPLrR6LjT6CCcbE7CmZPJG5MpPHos9ALQ0k0ai1DjtlACbNGYtEkBQo15I3SsowxC+9rDQedco1DV6zwaqnqNQlWvXwv68b9HhQUgWzOvheJ+rXYw5tRq1yMzMKeOTtbUiMjf3eofRwGNySTUNDXQWi26xqgJHCjxMCgqrayNCiiobGw5ezulTp8KylurSiBVLrv51dgOinnKFNuB8W9diVFrTT1Cl/qD/4SaD+Ko65xE3LsZ7ZbHPt7uK/AEDo0TcLcA4OPta7jffRHbhwTO0LUsY2focr04R3FoXLO6fYx7N672j5sB7iEx6iKwgMY74Bxa7AkGi8Z+06Hugz/i3GTsN3sbrN0HL2KNC3gC1wWMazuXB8a1ndOXuLZzEThuZHsTDWs7H9dDB+PRsF7y7iREvSaVLxG6OTSyb9//GaND8OgQom7H+xD1/iw62hM0Ktsnj9q4hx4RaPeZmw7O68xCo9TwBEXp1j+gawYaOyOPCg3XnC5qTldMQXcaBf7YoXznQulkCyjf7FNQ4WRzlPt6dLkYHQR0pVHhpkwwA0VhBf+S03KeeFS4qOoE9PLLwpzXytEX5XZ7oVEhHglxVrEuIXLwJgPqAyeoD2fRNQMVmu7CJaxg3sLlU+HPYOTPQEClW72FZnNQ4WSV2RFlY+kVhMWUl/7Y6RUcORebwmTU5UNUQhKZNGfynUYVx5nkt3j7Krwe9oIeHinTI1mec+HRlUWH4xu9AtDq9yugUdekB6KE2o1GhckkYTDo4bvZyd7H0bKuazie2PSwPw52a3+hK/nYB7qR6P2gzfY20Wb7rhz8KQjaFTYOT0RBdxq9K5UijwqlR07tI0R7YdhFmOzNmfdR2gUCCm5/rQjfBxAGqXJGnpSO7OXo5TO4OeFLsAOhXdCkSZMmTZo0adKkSZMmTZo0adKElpUmhRkNoZ8nzAdMrwhVbni2DDTnn0AoX5EWUGX4ZqHZpDEZfgE5gwSXozlf1De6vZ1Cv6VuVcMue31thrrs5jIODYSZr/SjsSGjr3AEov6LUNPr94BPrUcWBRROQ9UovHyvUTiqUKPw6rtG4T/lqPXj/tz9BMRtn4A5rrieAAAAAElFTkSuQmCCM9EYcw==",
+                "origin": [
+                    153,
+                    65
+                ]
+            }
+        }
+    ]
+}

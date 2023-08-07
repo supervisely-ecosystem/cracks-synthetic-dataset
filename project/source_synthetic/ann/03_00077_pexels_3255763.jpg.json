@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 92579758,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:41:10.701Z",
+            "updatedAt": "2023-06-05T15:41:10.701Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBOATH+4lQTkcNChoKAAAADUlIRFIAAACTAAABPgEDAAAAs96w0gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPgSURBVHic1Zi9btswEMcpcBC6hGMXI8rWV+hg2I9Ud8tg2No69pW4Ze0bRGiWjtoioIJViUfRd7x/bAUuCjSDYv985B2PvA/RmPzPNgoZ6zUr64VMI+MAuwdsBdgasD1gj4C1GhWNZtZr9qnW7AhUHADrgNqFpkDzkJxfxixgaNfQDm0BAy4oBqD2tIyVPTAFuK8CzLVArtEqBs3c4PVQwLaAHYZasf6omOu1W6pOu29olFwxaJfarlSsbJxyqfNVzqrnepu7+TiYQ86Gk9nngTX0Zp25vvg5xlrGrDfma8amU/Y70+HqcXEZq8bhr5nNm3H4i5Sz41f3JHWU49fyu2THHyN7lmzaMTe0YrpJYyVd+vHXZKI0ZesnPRmrtVxIA5nr928x11+V6zUrwqLkVlJaOYrlUrqQyy39JCwjYdyMUViyEPIZOxDznAWFhWBkihXRQRnJCjfbWjPKSNLNkfWayQQRlpYlCJKrkJyYzxETel0TmLCPUs29WFu1m57ro2ds8zA9V8IvVL8+CEa1qhDzdZFxvb1mRWTcZktjbQtYo8eWnEUdTjBKAxU32XwOT1kTiG0Au78qtwtPWd0bzQrALBm2AkzIxUInmOMWSSY6iLiATjNZyuOiBNsDOXKz3A7aQ1HybQ8Y2Mq412Ir4yBRF6MRVavkikEzK5l/i5WvwpbA3ItX81VPtRq7/cYZjT2K9iPk3KIXLBRY2wkWwqJArL/j7KTlKBJsw5tVclXpOSOfu5q3TGSyM5rdxeTG2Sr+52wt9pfYHrBOMMrhiLXibFBeb4XesKbxsKgWsap1y3kALWeXpw3yV5nNN8nk7eWUZPP2clRLdl5jBow1+iVjisJc7xSFVtoXIi5bW4i4rD0PFaaQTQSFkGShE8gYBbDIJXF2wWKnKlisB5zNuZ83ZnNN5HltDnqeE6m6SVaRCpH/5pzO9c65mq9t1tcyNo9pGNsB9l65VsuJcxqZBUzIzZ/ZfOl3tjbrLzDmlxTfTC6dOybngFxlNJvfB/hZOwHWX2B8vk79yNj+/aydPzwCuSsMjU3sbPN5u9KPxvpLrAPsvN5zGkAsjbVfEks6ykEz1qgiubQ2d5ZjbKHc6SJL+8HeG9I6zs1wkX5lHUBi7M04XVnMCcKw3oxl4CSXTi7r/xibcwpnaZoNYGvAWEIqAUtFYA8YO2Cp72yZffOHHZB7AMxcZuiuBLG7Gxi6CfvbDN2sLfXBYr/Uy1gF2C1jFzONbvLB/8g2gN1wwyrq+SW5W8aC+0BoM7qeRfeat5y/W2L/X+wv0rs0hyGGbvj5i0+SW8o8mG8hK+J8fwADgo+dDKOS2gAAAABJRU5ErkJggsHNDLo=",
+                "origin": [
+                    145,
+                    0
+                ]
+            }
+        }
+    ]
+}

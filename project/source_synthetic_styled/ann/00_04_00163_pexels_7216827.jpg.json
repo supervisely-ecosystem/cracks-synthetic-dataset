@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 96670059,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:45:00.978Z",
+            "updatedAt": "2023-06-05T15:45:00.978Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBNwTI+4lQTkcNChoKAAAADUlIRFIAAAHBAAABPQEDAAAASSVLyQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPfSURBVHic7Zs/axRBFMBnbsRJCLqFhRYhE7Cxi2JjIZngF/AjaGGvpYJkFxtbwc7Gr+AXkCzkC6QVhAw2sRBdiMIWd/u8vZyQCDkzv4Gbwn1NEnK/G3bmvTfv3yp1Uflw4U/+JbrBZMiw5n9CmhxkwORPStp2+WSRgxxT0nIyw97mOBXb4DU5WVPSVZTEiqDw1uqakraiZIHJDQqq+xnI5xTU+DgNtzGsfA6vWTaYrCgpFLQdJfkGSQNBIzUkLd2gkaePqSVgsoYk14MsXjpQ0tSUtJjMYJwakwabNfeYPCpxgZLYUrgrKaSCpOsoyW9rapyB5oBa6GlaoR6zEGoo7jVV9w1VMXAdH+Y2Nk18iSUEMx6T5QElsWlyT+uxpy2XH1kYvEFbVPe00Md0OE70cINGoYTXQjHp9qooQs/1xkt7KW4tPz9Eid2fnfnTrUU72lL2Z4ST2P2R8cmDltHkw+YkcCo/fY8DlXqsfDX90VaRS/biwuqY1SKvd47eYCLR2zMXLy+g67Lt7RVG8oIrr64MMsgggwwyyCBLkBxdcl5KTOihFK8wyavuOA8zCVXlBpJK8+IwJ3FenVCp9YaS7j1dtMAnanFqrR4llBB4My7hSHl9RsITRjo5htrrmhKSGxWvJ3m8R2vYHSk3fgBJK/RJDS73JpT9lf9CyQKPGfE2juYk7yFyNfI1JblT0QlaHyiZEOK8xOQ2Jmd1NCQ2UJKXl7JEnjzC2Q2UdFjpeczKeweqrCnJ/QI3UdvcgKRp70FST6h1a3yNJgRVqwuaHZcXo66mpA3+vH+NFpOmwxooONz1Qj2D45HRR6wMK46SCVV9PvSt21sUFezIaF+xD3YbSBqsRoomIUqtX6Xkv4x4gRisSKaaeZX1eFLXZVAocNVHvWdAo3rS5y9TjVjbjDWAvsFoJfSd39i580LGhdTTL3gXrRadHHb9dI7Eq2LvBLXsSbxHm2VqT6/JUfQlNa9WdeBU/8w284AlYfgXh6B+oiF5R97SRbcSip9vIJml+On4QGSO1BRvkXINJc2EkjmKDTohHQmU5OkIH6vlLzUZntRuf6akw7rAR3IT6oHFL4omOCNeHV5NcClnyJ0IcvfMX3UEuXnq97vyNYI8LaWMWTxqpsHON0j+gOmb7fZhslm0+hiBfTZeMXL33x85R5b/wuTosIYkv4hv8rIMH7UNkOQOlEetcoDJCoK8KcIvRFwHv4LDlAJfai6hNAJB3q3nzTH+VjuPkfFp8hA5YWyjwWsGSpqakgnvbFNQ8WopbsaNcAOQJwL8JR5PY7aEng8f/OEkn2nJMVT1jIK/AZwts8vaBc2rAAAAAElFTkSuQmCCCdD4PA==",
+                "origin": [
+                    63,
+                    109
+                ]
+            }
+        }
+    ]
+}

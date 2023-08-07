@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 92579749,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:41:19.575Z",
+            "updatedAt": "2023-06-05T15:41:19.575Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBbAST+4lQTkcNChoKAAAADUlIRFIAAAGeAAAA3QEDAAAAsQmGOgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAQUSURBVHic7Zo/b9QwFMDtulwqUTVjb0BNvwEdO5SmOx+C21gQVCzcAMRFSIx8BL4CGxuKdCyMzCBhBOJYEJY6EKRwprncn8Sx4/eMFALiDTnHl19e8vzvvecQghKOu/w3JPVgqAjxDJNX0broJFdYaPP6VKGh4NvsmZJYSM0iNBR6QkzNEAAdEXJD5ew7ChKExCpj51hIKck+qC0ElJHXyVTSN+oKHLqcka/5VFB+4x0cijKq8uDiGQPES0Wzt+oT40ULw6E4T5QoIKY4GEpypURRoBhIJYsODu9IG0opNMRU/GNaQlEGhQIVyQkvoRwOhfIRGpoFomQIA0MkD9JFicKhGeV4KFtP40dg6GBdPAZDFfGC9nygnf9QKdudaeoOwi/wFzLwgQLuA4nOINlriIHn5b8HCuBT7J/QFHhp6g6SHhDzgXo+NLozBPFpJ+KlSfhAp51pGnWmqTtIejC035r6DqX9hnivNXmldPzyQJ1p+hehnvdy5gOtYmsUxD0gr6gGkW1aCyKvtZahD3TYa02bPtDAB4qEBxT7QLdTD8iH8RqCgQfjl8vxGhgHPtB+cUiRkCgOSCe7SMUSknAUVM4qyFms7OJMoCA5P1KJYZYqEgwUpuVvjMnqh3zxi9lJiZeFCaKp7q1KiLe6uSotHxQgr1YluFPKKmXwS92vlCOoourdy67rlnpCS8KgZX8oZQyDYl49A2azZe0MZgmtaSJuvEoTbehF0niVJtrkykBbPbrXcQfA0Je65hQA6b0N0meb/SZzq2ombRO3qmbKGzC9GDwVt9FPm1Vu+50Y6hwQM67QBu1VCT9yQ61jeIRGS0Um9ZW/jZlKR4LQvGnn6OmxNFd/8YAu5fstUJKa64+veUC7LStVYNtcZcpuwMhmJtqyEx9Z/zK3+lxiaxba+uBt0IbdEon9de1/tUD2vdqWTWZmswQ9t0PEZonBE2GHbINq2LYYhZYbjtvGtS3ZLFrjH7P5GB+1QWY/aa89uWmOsR+2hyWNRWguGWuFiL7cze/EHbGMaaFnriDf5HIPXJBpAz9wujSGqGqv5ugZJW3UHFGnx9U0+hFr3kiT5oI8dm/hNtOLGSBcl3qFOHVD+tpP2/t4KbrR2VnqhvSevgnxpvVxsAXKSWktNYzNl9VFm3oOQGEPvVU7O4HFcrXgiJ7BIPqzemKZohoSP69SQGhQeSIK3sDdTVfFDfiu79oT3oHv8a3Xj21ETuDBsnBYj7VaZdVWY2jISCqecIZJ4CxsRiGDfSWJnP8wgUnDLIICOhEIiJaOF3uaIqCF/dh7DEMGsjhiPg0sZD5iQ+SnA3OvAv4VXSm08E8B4VhdYkWGd0dIKFQCn0FlKo9TLEQShfjYcSmxQnyLuZRIfcZD5MVjQ+Uv36pgiFQFBQcAAAAASUVORK5CYIIVGwZp",
+                "origin": [
+                    0,
+                    146
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 92579496,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:37:13.914Z",
+            "updatedAt": "2023-06-05T15:37:13.914Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBuwRE+4lQTkcNChoKAAAADUlIRFIAAAEmAAABGwEDAAAATe676gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAARjSURBVHiczdpNbuMgGAZgPER1F1GSZRZV3CN4WWmqpkeJNBfIsouq8dGYG8wROALLLKp4oAYMjvl4R4PaZtGQ+Ckm+OPXZiz76vJEvwSkFKReIPXw6Qorl0JQJQuqrpziBVXJclWioFKQOiOKYQqLHEy9QuoRUjtIrSC1hlT9TVWDoMWpQ7KCYgKr+ruCqlQQHhi7lVnVMrbvsmrHOkCxvkPqtO6BrExmiCrZZI+frtqCqmRH+I4grBuvO0ghCOzhSqqSQxU4fcGGhJJKfbo6QgqrL6xXBcNQIop/UwXOmCD1BfN2LFixvLYFFTTnANVeAIifEbWWEjrhAVBnqFoFUmF6obCkhWmKTcdu6C647nuhVb3uxfQQj5Q5zntSLZrfvXnfX6t1ZxOCLRdDqmX3U+VLKoMf10LqKq8bl3inKsqrU0dU+qgEcQF/uMRatmnl64vLA6CYEmlV+cR1jc8oslmMK0+y8fhjNaTItbFX5Kr3GVItpDYuQZbLr93I0cyfiB7z1D8p305I1ZDqEVJuPKc71B2kXPvYkMq1j3tSuWg90Kob3gWiMrNLqzLbOFZlZtBG3WZX/0btVU6ZPmDf5wYDbjbGGpFZetWmV2LHvGoke8mpzoTWPrPE0ZGsg6fOKD6ozEKIq14PLDyjqt6o3IqjuvQXlr9Cl8qcbS2IQnVuV4xSPzsXWNSkV1em7fEJxXXBbRsiqqJRJ9ceCfXCuLAVRYwdBz1ILbNK6o7JDbFJZdrgwzanTJelG8bwOsmEMle5dio1Zx++9+F3nFdDf+vrKRH5w6/zE+dEZ/gYqzDCxJhUExUckj5lO5tZpXzKhoxfmdWU8pOgalatord4s731qeUkr3A+u59+Oat8GXftVIUrTFewRk7VKhgiN+7UV4r318pF3SpQwqdtbPo493O+KPRv3VdyqnwhxnJwda248kk7D67dPDAcWtY+s+F/dVO2Khym+Hmi1Jz6aC/Bt/qvjfNoruR+kv229q0hGj5PsVrPqwpTyqWEPePr5N8/XkeX+OB69HmzvyZS20jpoLcqbtM+Ql4najurTla5XdlI+avaiOFTM6fGq2oK9jRWQaTG66ULZoYeNw2K1htcuNQqvPikkuOBNlRjb6NrNOw5YnVMKJZU6Wmnz1mXML3t/BCoSwqNtccFcW9qvK1wJgbWsac+Xe4BRe3bBip9QlAFMxmRVsHqFlPd56jFmJRQXphSBVULKWLJj6lgYCMm88EtMGKvNYgJYikSlIsLRBGhExb5kFThzz9Cqk2q8Ei6bZdUwZ5olW7c4WXB1Buknv5ThVco3ftugnR6MwJTbZBOP5ZxCD8cUyo6kFx6RnklVVSU5KMBkUpeouiMNwkEqqhzSLbbeBRPqSgOknlFKrm1sYPUHaTa6JMoqCSkDpB6Tijsfkdmy92+FnkCq3qDKP4HUtC9ft73eQQq9gs8pUIy+4LbYCVvlmEKe6AJU9hTNZgC7+xCigvolNjjJCUfClr+BfL0OfKsnIbpAAAAAElFTkSuQmCCUv9BxA==",
+                "origin": [
+                    145,
+                    34
+                ]
+            }
+        }
+    ]
+}

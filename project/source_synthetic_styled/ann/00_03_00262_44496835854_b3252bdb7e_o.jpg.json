@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 96670353,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:39:39.775Z",
+            "updatedAt": "2023-06-05T15:39:39.775Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBUQSu+4lQTkcNChoKAAAADUlIRFIAAADPAAABHgEDAAAAF1rTIgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAP5SURBVHicvZnNbtQwEMftNZAi2qYXpD2sNn0D9thDtcuVE28A+wg5IoSavAEvwI0HwYiH4FjzJTha6oFFWq2JnWTTxvMfwKoYiTTip0kmM+OZsVcIcSqgrDEyGJUYnWM0xyjHSNUQSY2RwU+0KVrcuzBijFeQiHsYNY46BKhx7wygpRBnGJUAFdhVeQ1dlRmlAZI/sxog4Rwi4uUSohJ9scDOENiFjRyEa0ahabgW+F2kne27SPe3DyzxA0k01x5bChXN/1afSJRvvI81hURRKwPcrzQOmcGr9hw7v0CZ2Hh9A5G0EDGFiqsCjJZO0UpEZRLCD0wrYUydIpdCK3ydQkIuoFZWSQiXB67lpGkx6PjPiEj9vhRZ/C4zBgtR6XATR3QnnKWRfKeuduEuCvaD/LuuPtZNYKLF/kw6kTnn6igP1EZsm2rjfpnoywvdfqkux+PAw11/d1aUN8gjZ/rb2XAbpNrub/NRhdgO9mZWIGFSmAkaM8ngEiZeYFRitMBojZHByGKEi+xfronxGri21qsRGjwvxw1m0Mp0fRMNdaUakWvo1djCAdkx2kc502O0HwXiPrdHcTHbo7iYHfQ3sTOn3V8Vh6DPKCKLe638FGndv4hIn2wVEe0OUR1/Ea5yS6BWS/0gUGsG2UPaKFEL8K4LL6MWYO62AE0uCwceKDcy1A1iXmmGh4k3ROkYNSqrGqLckB01TCP+X4yCn3wRWMdoIVpfEchrzWjkI+jTLLYw5FFhqMaeeQ82yUQE5Ti4YkttQN6Emrc8id0rtwEVLg6KtAHlbhehrlbISyrXuvX6nECdMEMEg5hqn/bAtJ7PjDmMFjNSpWn9T8RsqxgfMvu05QlEzF5BUeWrk3GDuiZMwNKyjUHcucBtI5mGIOFOLhiUto9oU6r8RzQL7jAQ0TuhqUe0Iw+9Bv0FM98f6LU58yZMMVqQaH5ksg90dufuZ0GWWV+ZXRjTCTmvnD14oim0Wb1/DIZFe8dficmid+zqc0y6XqkIG1VnAOEqfMQgcowKjKLZcBALiTIQxWNjLyva5QG9hc9j9g/lbaM1RgYS5hSBcVOuIWLqP95nOVDI1bcvjlwgk7BXNRTK6rxeKU2h3B9kya8UmlmfruS7zi6OmitpYVn4RU8G2YQdLNXypAnWUT00ALqSSIw6SUMLjNKSl9l1Mu06bfTifk1g7KALa5CnGDHFS2msZjBijhAY3zPBZOYyxovcZFNDpDRGO6im6PXcmgH9kTZUJuUvUxAZZzAjJXPUwnQvZug1EOHuFba+tEjwW4F/FUb5FTJj4uAR/msLv2uHP9nCheJjBYLMeElpjOoUlDbVMBsUXCeZX0cKA9F8hH4DEsAP++lWA/UAAAAASUVORK5CYIJXJvBf",
+                "origin": [
+                    132,
+                    28
+                ]
+            }
+        }
+    ]
+}

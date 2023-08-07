@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 92579195,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:32:14.521Z",
+            "updatedAt": "2023-06-05T15:32:14.521Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBMwTM+4lQTkcNChoKAAAADUlIRFIAAAEGAAAAwwEDAAAAWqktzAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPbSURBVHicvZixctQwEEBlFKJUCCqazIlPSElxE/Ep6dKmvCKD3VHyC3wGHe4o4RNMRYkYhuEYPF4k+2zv6iTvZfCwRcZW3q3k3dXuSuJKcLJbgdizRMsSr1niegViwxKaJYxjCdYgpmMJEOKOISq5PNEFADCWvz0QT7JEAdDb1eSVQLdhiMttTyw6yIY/JUtAtUCU4Z+wpKNs4lkuIwLcqGiUeNk9YRGxid1ZumgWG/vBNsG0+CexL7VTQiHFEpqIkM5WGilWv6uIEHtwBhG6jgFRQoenNkcqhP0J8Aq9HgFCv7PYAkk3S4dekjmlaNCzSxESEZIlVJMiVD0/J8wRjSbMEQg0mo5YTKS3ICbS2xittEgT2s3w5zQBU4zhgEVyXk47KpeD9UgU2WwyzpLPSKNy5XLEqDztN4GsgG1HZJo+m8ZPIBxHqFFHtpzo0R7ZjKegHh4S2+mwjnG/Z0tj0ScisVSi9WGpd1lCHszuskQx7G28PWPxm2B3s0hYn8sc2Z7HhIbOfqwXiMp88CWtyhOmtmaZ0L9a/QaWSoT2Vi2+v18gJt9lpVisQb3wLRHfeN2zxMsVZmG7mXSyfhixFBmD4MSdlmxamGShRTkI30PyRuf74TuWcBzAm/R5wxF2BcLUHJGusoRgZ8nWhEn4AJLsOk7Q8V8IPtRPIKoViBXWcYJveR0VS7A60p0clmwlnoRPDtsVCD7BrFEZ1iD4b+Etxqdk3vv5nnIi2HIr2SN5wRInhNAJn8sSa2xtWf87sdTvHcSxRDKWr/BLKg6LHSWOP1gSj28TGYLGxHWikuk9R9CRy8Qhi45s+h3xiBBlRIQLCUUI2tCaXgfZFQUhdrYtY8KgjlT+gKFJxqH2GF8VqQCELhefcCxuajV88kRDcoAkt00G5LcmXIQg/yms4sJ2PvfrVmzRz8ixflO2nlDQYsWkfFrYh96gBECuIhcJ4Nt5T1hKoFlkOA34KqXhSyCKahgmRDdUGFMFQtbDMNKngiUGe98jAgVpf4Y+7x/DeW6MV0Sge5qgY/Qe+nJUwoIOv6JC0LSEssshRmRbNCXSgRz6elCp4CtAlyTCOmx9iAaqen48A+f0WyDHLuRy64T54/+pug0izvFnQVs2pV9C6/04DhZAzOt/avsgsJMORRwa3GvgRqDbiv4kN4v2Pjrrly6n85sihCjr8TrQjoS4JcTsAtNMc5MsMe8p1PmQTDM7CXU+5JCfvFcgiSRJkGQUX2vGS8oQdP+lCHK8Sdfm8sX8nO7cLVKSvsnDN6bp669n2KrpZgVXiXSzcsUS4kEEf+Beg3iKX/4CRF2HWHtoC+4AAAAASUVORK5CYIKZk/K0",
+                "origin": [
+                    50,
+                    112
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 96670051,
+            "classId": 747782,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "poldersen2",
+            "createdAt": "2023-06-05T15:33:41.905Z",
+            "updatedAt": "2023-06-05T15:33:41.905Z",
+            "tags": [],
+            "classTitle": "cracks",
+            "bitmap": {
+                "data": "eJwBUgSt+4lQTkcNChoKAAAADUlIRFIAAADTAAAAyQEDAAAAg4SVZwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAP6SURBVHicndg/b9NAFADwuxzERZTYgiVDIZmADbMFKI3Z+BiuGEHCiAVBoRYDYuMLILWfAPENOImhbDAyIDgkdtypQQoEnLP93r37o9Ab0hf//O4u9v2xy5hVDuxDXVmUASPfT6C4IraGYuU3LomlKM6JJRBmNA+My9Jv36mNwQ79Jm5Sg9/AR9TWIS9mXmMDalDn8ILf2Glq+D7QvmDLApYGbEwM/QZ8T5alv2KdecBkoD1qw4BNUFwSewQhp1YELIfwHPNbTPPSFU36LaKWQCgCeVz580Jmzdt0DHFOLA9YgQ6kxDYLv+1Wq1lBbFExX+HIopLg/GUXniDEJEzANUI8GzJf4WyjixNLN6wjUGDQ23mD1czCqItSq2mYuMkzagLyntG7i+q8F1Wmweo3zq/MTfsIxqbE/kCd7DzZdR4j2yRWIJvsHscK9ojYrIuuvilG0rBpF11byNHMsBFEv9kZ02DkxYe4hbqIron6airDYLfklTXN5Lg1ZVmetpGypsud9rvOM1a8h5VhJyWy3bbfdY+T68bKNW3yZD1ykq1X2EatXartwTtssTahLv/7HKpYYdMniqpeumMlKmQn9Yl8ltcNKI6t2Rb4vLap4gW2Uv/5XZ9zSYkUUXshdstlj3p4N2knxPJpiSs+KFGe/vP56fKPMpbtJm/+o+lYJFVnegKKPX0kY5GSxC6K9kh0BKaXqq3uvolFRuws9A1NGG0pHPhDDfrG5gHbWc30b8jhQAGhXrQyOIBO03kSDqDTBLXSrDPBoxmF9cI0hFXNqLPOG3keVepVc8rcZcJk8WQfHUDtzYSqthV87yHbOzialagNXEYvLn+1HtuaEn/4txN58pYTp3CbqNv27Fi9+iNy2/KSCOm0ZPmpnJYtP515aemvU49G69m6LlyPxqnLhF6VtlxVNqvLjsuu6k5MXLatG3Lu1s3LhiNvvV2tC9suHGjj+7bd/6mrFDaxuLk3LtvoZV4bNrt732HrQuf1XO3deu6tM/r0RZu0bdC8DxqLdFMmzTgRMwJlPdVKHZM8LnMpu5jY4vBX2calaezu++6F1uonB7Py2OJ15mmPsW+99vS+lbcGl8oyFrJ+wOBZ0OoLehrN/8tgNNtjd9NxVltud5G1hthXERWwMaU1FbDcb4OkC1Nq0dsuLKihxwMr7zRYTq0v/ZYxv0Ga/RtKCGlfOIoTYniNPkUsRo3Qd038Ks0K803GuJ87uWFG3z5Kr/FvZnt4bEVkwuM8oUxLcJ1mc8Y1/B9jKxrZx/ZKvxlTJ1SnawFty2bAioAFmnOsIV3hfnLuAatYqM7gpS4C5tyLm5Ie024EzPqfGyrrxzT/fwbClgRsvLL9BQI49/wvBszSAAAAAElFTkSuQmCCsSYiBA==",
+                "origin": [
+                    68,
+                    76
+                ]
+            }
+        }
+    ]
+}
