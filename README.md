@@ -46,7 +46,7 @@ Direct download links:
 # Samples
 
 | source_synthetic | source_synthetic_styled | target_unlabeled | validation |
-| ---------------- | ----------------------- | ---------------- | ---------- |
+| :-:  | :-:  | :-:  | :-:  |
 | <img src="https://github.com/supervisely-ecosystem/cracks-synthetic-dataset/assets/119248312/cd4e9548-3fa1-45a9-bb5f-12d9a04e85d7" width=150px /> | <img src="https://github.com/supervisely-ecosystem/cracks-synthetic-dataset/assets/119248312/c1c21d33-d4cc-45d6-bb2f-acb5dd3cb541" width=150px /> | <img src="https://github.com/supervisely-ecosystem/cracks-synthetic-dataset/assets/119248312/11dedeb6-38b5-49d3-887a-93c54a9cbdb4" height=150px /> | <img src="https://github.com/supervisely-ecosystem/cracks-synthetic-dataset/assets/119248312/973d7bdf-9463-4d30-83a3-f86006405326" height=150px /> |
 
 # License
