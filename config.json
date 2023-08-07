@@ -3,7 +3,7 @@
   "description": "This dataset was used in tutorial 'The training on Synthetic data'.",
   "type": "project",
   "categories": ["import", "images", "project"],
-  "icon": "",
+  "icon": "https://github.com/supervisely-ecosystem/cracks-synthetic-dataset/assets/119248312/87f53c67-8bd6-4bc2-962d-e2cbdd74e723",
   "icon_cover": true,
-  "poster": ""
+  "poster": "https://github.com/supervisely-ecosystem/cracks-synthetic-dataset/assets/119248312/627f42db-df78-4498-b99f-9aab061f5682"
 }
