@@ -54,7 +54,7 @@ Direct download links:
 License: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 If you use this dataset, cite us:
-
+```
 @misc{ Computer Vision Dataset,
     title = { Cracks Synthetic Dataset },
     type = { Open Source Dataset },
@@ -66,3 +66,4 @@ If you use this dataset, cite us:
     year = { 2023 },
     month = { aug },
 }
+```
