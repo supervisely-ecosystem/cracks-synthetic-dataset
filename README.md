@@ -25,12 +25,12 @@
 # Overview
 
 ### Dataset contains:
-- 1158 synthetic images with Ground Truth *(target domain)*
-- 400 synthetic images with Ground Truth with Style Transfer Augmentation *(target domain)*
-- 628 real images **without** Ground Truth *(source domain)*
-- 70 real images with Ground Truth for **Validation** *(source domain)*
+- 1158 synthetic images with Ground Truth *(source_synthetic)*
+- 400 synthetic images with Ground Truth with Style Transfer Augmentation *(source_synthetic_styled)*
+- 628 real images **without** Ground Truth *(target_unlabeled)*
+- 70 real images with Ground Truth for **Validation** *(validation)*
 
-<img src="folder overveiw"/> 
+<img src="folder overveiw"/>
 
 
 ### How the data was generated
