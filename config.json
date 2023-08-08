@@ -1,6 +1,6 @@
 {
   "name": "Cracks Synthetic Dataset",
-  "description": "This dataset was used in the tutorial «The training on Synthetic data»",
+  "description": "Synthetic dataset for cracks segmentation",
   "type": "project",
   "categories": ["import", "images", "project"],
   "icon": "https://github.com/supervisely-ecosystem/cracks-synthetic-dataset/assets/119248312/87f53c67-8bd6-4bc2-962d-e2cbdd74e723",
