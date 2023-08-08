@@ -39,9 +39,9 @@
 We have collected about 200 real photos (or textures) of asphalt, wall, concrete and other images of various materials that are used as a background. Then we overlaid these textures with procedurally generated cracks. To embed the cracks in the texture and make it more realistic, we apply some post-processing algorithm. Also, there is a subset of 400 images which were obtained by applying [Style Transfer](https://arxiv.org/abs/2003.07694) model to increase the variety of the data.
 
 # Download
-Direct download links:
-- [zip](https://github.com/supervisely-ecosystem/cracks-synthetic-dataset/archive/refs/tags/v0.0.2.zip)
-- [tar.gz](https://github.com/supervisely-ecosystem/cracks-synthetic-dataset/archive/refs/tags/v0.0.2.tar.gz)
+Direct download links (286 MB):
+- [zip](https://github.com/supervisely-ecosystem/cracks-synthetic-dataset/archive/refs/heads/master.zip)
+- [tar.gz](https://github.com/supervisely-ecosystem/cracks-synthetic-dataset/archive/refs/heads/master.tar.gz)
 
 # Samples
 
