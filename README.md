@@ -1,7 +1,7 @@
 <div align="center" markdown>
 
 <img src="https://i.imgur.com/UdBujFN.png" width="250"/> <br>
-<img src="https://github.com/supervisely-ecosystem/cracks-synthetic-dataset/assets/119248312/627f42db-df78-4498-b99f-9aab061f5682"/>
+<img src="https://github.com/supervisely-ecosystem/cracks-synthetic-dataset/assets/115161827/dc1093a4-730f-4d35-aac5-5836deadeea6"/>
 
 # Cracks Synthetic Dataset
 
